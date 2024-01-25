@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+}
+.content-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.section {
+margin: 20px;
+background-color: rgb(151, 191, 255);
+padding: 10px;
+text-align: center;
+border-radius: 10px;
+}
+a {
+  color: rgb(0, 61, 168);
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(1, 31, 82);
+  font-style: italic;
+}
